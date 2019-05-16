@@ -1,4 +1,5 @@
 # jiemeng
+用来方便查询原版周公解梦的小查询系统，可以在web上使用，也可以使用Hbuilder将其发布成APP使用
 
 ## Project setup
 ```
